@@ -1,0 +1,76 @@
+h1{
+    color:#000000
+
+    
+  }
+
+p{
+ color: #1e9 
+  
+  
+}
+
+ol{
+color: #FF4500;
+
+}
+
+.title{
+display:flex;
+justify-content: space-evenly;
+font-family:cursive;
+
+
+}
+
+.grid{
+
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-evenly;
+align-content: flex-start;
+
+
+
+}
+
+.grid img{
+
+  border: 2px solid #000000;
+  border-radius: 50px;
+}
+
+
+
+.origami{
+
+ 
+
+  border-radius: 20px;
+background-color: #fff8dc;
+
+width:310px ;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+  
+}
+
+.main{
+background-image:url("background.png")
+
+
+
+}
+
+
+
+
+
+  
+
+
+
+
